@@ -10,21 +10,21 @@ Create two main pages for a website, focusing on responsive design. Detailed exp
 
 - Expected Desktop Layout
 
-![page-one-desktop](page-one-desktop.jpg "page-one-desktop")
+![page-one-desktop](docs/page-one-desktop.jpg "page-one-desktop")
 
 - Expected Mobile Layout
 
-![page-one-mobile](page-one-mobile.jpg "page-one-mobile")
+![page-one-mobile](docs/page-one-mobile.jpg "page-one-mobile")
 
 ### 2. Page Two
 
 - Expected Desktop Layout
 
-![page-two-desktop](page-two-desktop.jpg "page-two-desktop")
+![page-two-desktop](docs/page-two-desktop.jpg "page-two-desktop")
 
 - Expected Mobile Layout
 
-![page-two-mobile](page-two-mobile.jpg "page-two-mobile")
+![page-two-mobile](docs/page-two-mobile.jpg "page-two-mobile")
 
 ### 3. **Bonus:** UI Design
 
